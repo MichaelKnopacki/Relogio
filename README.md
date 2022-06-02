@@ -6,13 +6,13 @@ Projeto desenvolvido durante o curso: https://www.udemy.com/course/desenvolvedor
 
 Alguns dos pontos abordados nesse projeto:
 
-•	Broadcast
-•	Ciclo de Vida
-•	Thread
-•	Full Screen
-•	LogCat
-•	Portrait & Landscape
-•	DarkMode
+•	Broadcast<br/>
+•	Ciclo de Vida<br/>
+•	Thread<br/>
+•	Full Screen<br/>
+•	LogCat<br/>
+•	Portrait & Landscape<br/>
+•	DarkMode<br/>
 
 https://user-images.githubusercontent.com/77402918/171654489-c246b911-c71c-4bd1-8aee-d8001fc33f29.mov
 
@@ -20,9 +20,9 @@ ________________________________________________________________________________
 
 Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir com este projeto, como:
 
-💪 Se juntando ao time de desenvolvimento. 
-🌟 Dando uma estrela no projeto. 
-🐛 Reportando um Bug. 
-😅 Indicando um vacilo que eu possa ter cometido. 
-📄 Ajudando a melhorar a documentação. 
-🚀 Compartilhando este projeto com seus amigos.
+💪 Se juntando ao time de desenvolvimento.<br/>
+🌟 Dando uma estrela no projeto. <br/>
+🐛 Reportando um Bug. <br/>
+😅 Indicando um vacilo que eu possa ter cometido. <br/>
+📄 Ajudando a melhorar a documentação. <br/>
+🚀 Compartilhando este projeto com seus amigos.<br/>
